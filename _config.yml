@@ -180,12 +180,12 @@ workshop:
       type: orals
       desc: PILM Presentations (10 min + 5 Q&A)
       paper_list:
-       -title: Addressing catastrophic forgetting by modulating global batch normalization statistics for medical domain expansion
-        author: S. Gupta, K. Chang, L. Qu, A. Rana et al
-      - title: Distribution-Aware Replay for Continual MRI Segmentation
-        author: N. Lemke, C. Gonzalez, A. Mukhopadhyay, M. Mundt
-      - title: Exploring Wearable Emotion Recognition with Transformer-Based Continual Learning
-        author: F. Rizza, G. Bellitto, S. Calcagno, S. Palazzo
+        - title: Addressing catastrophic forgetting by modulating global batch normalization statistics for medical domain expansion
+          author: S. Gupta, K. Chang, L. Qu, A. Rana et al
+        - title: Distribution-Aware Replay for Continual MRI Segmentation
+          author: N. Lemke, C. Gonzalez, A. Mukhopadhyay, M. Mundt
+        - title: Exploring Wearable Emotion Recognition with Transformer-Based Continual Learning
+          author: F. Rizza, G. Bellitto, S. Calcagno, S. Palazzo
     - time: "12:25"
       type: organizer
       desc: Closing remarks
