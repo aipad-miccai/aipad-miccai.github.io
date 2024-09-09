@@ -7,6 +7,7 @@ workshop:
   name: "AIPAD: AI in Pancreatic Disease Detection and Diagnosis"
   short: AIPAD
   host: "MICCAI 2024<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
+  logo_url: img/miccai2023-mobile-logo
   submission_link: https://cmt3.research.microsoft.com/AIPAD2024
   dates:
     submission: June 24, 2024
