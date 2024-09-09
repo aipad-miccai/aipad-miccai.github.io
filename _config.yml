@@ -108,7 +108,7 @@ workshop:
       author: C. Delle Castelle, F. Spampinato, F. Proietto Salanitri, G. Bellitto, C. Spampinato
     - time: "09:15"
       type: oral
-      tile: Optimizing Synthetic Data for Enhanced Pancreatic Tumor Segmentation
+      title: Optimizing Synthetic Data for Enhanced Pancreatic Tumor Segmentation
       author: L. Peng, Z. Zhang, G. Durak, F. H. Miller, A. Medetalibeyoglu, M. B. Wallace, U. Bagci
     - time: "09:30"
       type: keynote
@@ -156,7 +156,7 @@ workshop:
           author: W. Bakasa, C. Kwenda, S. Viriri
         - title: Leveraging SAM and Learnable Prompts for Pancreatic MRI Segmentation
           author: C. Delle Castelle, F. Spampinato, F. Proietto Salanitri, G. Bellitto, C. Spampinato
-        - tile: Optimizing Synthetic Data for Enhanced Pancreatic Tumor Segmentation
+        - title: Optimizing Synthetic Data for Enhanced Pancreatic Tumor Segmentation
           author: L. Peng, Z. Zhang, G. Durak, F. H. Miller, A. Medetalibeyoglu, M. B. Wallace, U. Bagci
     - time: "09:30"
       type: keynote
