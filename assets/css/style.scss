@@ -124,6 +124,17 @@ div.speaker .details .affiliation {
    margin-left: 30%;
 }
 
+.footer-logos {
+  text-align: center;
+  padding: 20px;
+}
+
+.footer-logos .logo {
+  max-height: 100px; /* Imposta l'altezza massima dei loghi */
+  margin: 0 10px; /* Spazio tra i loghi */
+}
+
+
 .project-tagline {
    opacity: 1;
 }
