@@ -4,9 +4,9 @@ layout: default
 
 # Workshop program
 
-This page will be updated after notification of acceptance.
+<!-- This page will be updated after notification of acceptance. -->
 
-<!--{% for entry in site.workshop.program %}
+{% for entry in site.workshop.program %}
 {% if entry.type == "organizer" %}
 * {{ entry.time }}: {{ entry.desc }}
 {% elsif entry.type == "oral" %}
@@ -14,4 +14,4 @@ This page will be updated after notification of acceptance.
 {% elsif entry.type == "keynote" %}
 * {{ entry.time }}: **Keynote**: *{{ entry.title }}* ({{ entry.author }}, {{ entry.affiliation }})
 {% endif %}
-{% endfor %}-->
+{% endfor %}
