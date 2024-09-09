@@ -140,4 +140,54 @@ workshop:
     - time: "12:25"
       type: organizer
       desc: Closing remarks
+  program2:
+    - time: "08:00"
+      type: organizer
+      desc: Welcome
+    - time: "08:10"
+      type: orals
+      desc: AIPAD Presentations (10 min + 5 Q&A)
+      paper_list:
+        - title: Pancreatic Vessel Landmark Detection in CT Angiography using Prior Anatomical Knowledge
+          author: L. Rist, C. Homm, F. Lades, A. Ayala Hernandez, M. Sühling, E. G. S. Brandt, A. Maier, and O. Taubmann
+        - title: Artificial Intelligence in Pancreatic Disease Detection and Diagnosis
+          author: E. Rapisarda, A. G. , S. Calcagno, D. Giordano
+        - title: Hybrid DeepLearning Model for Pancreatic Cancer Image Segmentation
+          author: W. Bakasa, C. Kwenda, S. Viriri
+        - title: Leveraging SAM and Learnable Prompts for Pancreatic MRI Segmentation
+          author: C. Delle Castelle, F. Spampinato, F. Proietto Salanitri, G. Bellitto, C. Spampinato
+        - tile: Optimizing Synthetic Data for Enhanced Pancreatic Tumor Segmentation
+          author: L. Peng, Z. Zhang, G. Durak, F. H. Miller, A. Medetalibeyoglu, M. B. Wallace, U. Bagci
+    - time: "09:30"
+      type: keynote
+      ws: AIPAD
+      author: Ulas Bagci
+      affiliation: Northwestern University
+    - time: "10:00"
+      type: organizer
+      desc: Coffee break
+    - time: "10:30"
+      type: keynote
+      ws: AIPAD
+      author: Zongwei Zhou
+      affiliation: Johns Hopkins University
+    - time: "11:00"
+      type: keynote
+      ws: PILM
+      author: Camila Gonzalez
+      affiliation: Stanford University
+    - time: "11:40"
+      type: orals
+      desc: PILM Presentations (10 min + 5 Q&A)
+      paper_list:
+       -title: Addressing catastrophic forgetting by modulating global batch normalization statistics for medical domain expansion
+        author: S. Gupta, K. Chang, L. Qu, A. Rana et al
+      - title: Distribution-Aware Replay for Continual MRI Segmentation
+        author: N. Lemke, C. Gonzalez, A. Mukhopadhyay, M. Mundt
+      - title: Exploring Wearable Emotion Recognition with Transformer-Based Continual Learning
+        author: F. Rizza, G. Bellitto, S. Calcagno, S. Palazzo
+    - time: "12:25"
+      type: organizer
+      desc: Closing remarks
+        
     
