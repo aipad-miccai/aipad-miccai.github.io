@@ -29,7 +29,7 @@ workshop:
       surname: Bagci
       affiliation: Northwestern University
       email: 
-      pic: img/boqing_gong.jpg
+      pic: img/pic.jpg
     - name: Pallavi
       surname: Tiwari
       affiliation: University of Wisconsin-Madison
@@ -39,7 +39,7 @@ workshop:
       surname: Gong
       affiliation: Google
       email: 
-      pic: img/pic.jpg
+      pic: img/boqing_gong.jpg
     - name: Concetto
       surname: Spampinato
       affiliation: University of Catania
