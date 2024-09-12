@@ -87,6 +87,14 @@ workshop:
       file_text: "PDF"
       file_url: 
       bio: "Zongwei Zhou is an assistant research scientist at Johns Hopkins University. He received his Ph.D. in Biomedical Informatics at Arizona State University in 2021. His research focuses on developing novel methods to reduce the annotation efforts for computer-aided detection and diagnosis. Zongwei received the AMIA Doctoral Dissertation Award in 2022, the Elsevier-MedIA Best Paper Award in 2020, and the MICCAI Young Scientist Award in 2019. In addition to seven U.S. patents, Zongwei has published over 30 peer-reviewed journal/conference articles, two of which have been ranked among the most popular articles in IEEE TMI and the highest-cited article in EJNMMI Research. He was named the top 2% of Scientists released by Stanford University in 2022 and 2023."
+    - name: "Ulas Bagci"
+      affiliation: "Northwestern University"
+      pic: img/pic.jpg
+      title: "TBA"
+      file_text: "PDF"
+      file_url: 
+      bio: "Dr Ulas Bagci is an Associate Professor (with tenure) at the Northwestern University's Radiology Department at Chicago. He has courtesy appointments at BME, ECE of Northwestern, and CS departement of University of Central Florida. His research interests are artificial intelligence, machine learning and their applications in biomedical and clinical imaging. Dr. Bagci has more than 350 peer-reviewed articles on these topics.
+      Previously, he was a staff scientist and lab co-manager at the National Institutes of Health’s radiology and imaging sciences department, center for infectious disease imaging. Dr. Bagci holds several NIH grants (R01s, U01s, R15, R21, R03)  (as Principal Investigator) and serves as a steering committee member of AIR (artificial intelligence resource) at the NIH. Dr. Bagci also serves as an area chair for MICCAI for several years and he is an associate editor of top-tier journals in his fields such as IEEE Trans. on Medical Imaging and Medical Image Analysis. Prof. Bagci teaches machine learning, advanced deep learning methods, computer and robot vision, and medical imaging courses. He has several international and national recognitions including best paper and reviewer awards."
   program:
     - time: "08:00"
       type: organizer
