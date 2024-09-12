@@ -25,7 +25,7 @@ layout: default
             <span class="name">{{ person.name }}<br>{{ person.surname }}</span>
             <span class="affiliation">{{ person.affiliation }}</span>
             <!-- <span class="affiliation"><a href='{{ person.file_url }}'>{{ person.file_text }}</a></span>--> 
-            <span class="bio">{{ person.bio }}<span>
+            <span class="bio">{{ person.bio }}</span>
         </div>
     </div>
 </div>
