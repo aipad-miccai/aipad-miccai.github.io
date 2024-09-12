@@ -36,6 +36,12 @@ div.item {
     font-weight: 300;
 }
 
+div.speaker {
+    border-bottom: 2px solid #ddd; /* Colore e spessore della linea di separazione */
+    padding-bottom: 20px; /* Spazio tra la linea e il contenuto sottostante */
+    margin-bottom: 20px; /* Spazio tra la linea e la sezione successiva */
+}
+
 div.speaker .cont {
     display: flex;
     flex-direction: column;
