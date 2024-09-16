@@ -130,13 +130,14 @@ div.speaker .details .affiliation {
    margin-left: 30%;
 }
 
+.footer-logos {
+  text-align: center;
+  padding: 20px;
+}
 
 .footer-logos .logo {
-  display: block;
   max-height: 300px; /* Imposta l'altezza massima dei loghi */
-  margin: 0 20px; /* Spazio tra i loghi */
-  margin-top: 20px; /* Aggiunge spazio tra i due loghi */
-  text-align: center;
+  margin: 0 auto; /* Spazio tra i loghi */
   padding: 20px;
 }
 
@@ -144,6 +145,10 @@ div.speaker .details .affiliation {
   display: block; /* Fa sì che il testo sia su una nuova riga */
   font-size: 1.5em; /* Ingrandisce il testo */
   margin: 20px 0; /* Aggiunge spazio sopra e sotto il testo */
+}
+
+.footer-logos .logo + .logo {
+  margin-top: 20px; /* Aggiunge spazio tra i due loghi */
 }
 
 .project-tagline {
