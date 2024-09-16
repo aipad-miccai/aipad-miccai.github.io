@@ -138,6 +138,17 @@ div.speaker .details .affiliation {
 .footer-logos .logo {
   max-height: 400px; /* Imposta l'altezza massima dei loghi */
   margin: 0 20px; /* Spazio tra i loghi */
+  display: block;
+}
+
+.footer-logos span {
+  display: block; /* Fa sì che il testo sia su una nuova riga */
+  font-size: 1.5em; /* Ingrandisce il testo */
+  margin: 20px 0; /* Aggiunge spazio sopra e sotto il testo */
+}
+
+.footer-logos .logo + .logo {
+  margin-top: 20px; /* Aggiunge spazio tra i due loghi */
 }
 
 
