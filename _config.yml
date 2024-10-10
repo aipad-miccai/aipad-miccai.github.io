@@ -105,7 +105,7 @@ workshop:
       author: L. Rist, C. Homm, F. Lades, A. Ayala Hernandez, M. Sühling, E. G. S. Brandt, A. Maier, and O. Taubmann
     - time: "08:30"
       type: oral
-      title: Artificial Intelligence in Pancreatic Disease Detection and Diagnosis
+      title: Assessing the Efficacy of Foundation Models in Pancreas Segmentation
       author: E. Rapisarda, A. G. , S. Calcagno, D. Giordano
     - time: "08:45"
       type: oral
